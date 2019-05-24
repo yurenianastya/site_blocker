@@ -2,5 +2,5 @@
 A python script, which locally blocks ip you don't want to browse on work
 
 Major note!
-If you work on linux-based system - those hosts path should work fine
+If you work on linux-based system - those hosts path should work fine.
 But, if you are windows user - make sure to change them in order to make this script work correctly
